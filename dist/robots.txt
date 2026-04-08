@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-502-custom-painting-remodeling.dream-surge.com/sitemap-index.xml

@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "502 Custom Painting & Remodeling",
+    "phone": "15027447219",
+    "category": "painting",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "painting-trust-navy",
+      "categoryGroup": "painting",
+      "name": "Trust Navy",
+      "recipeFile": "painting/trust-navy.astro",
+      "colors": {
+        "primary": "#F59E0B",
+        "primaryDark": "#78350F",
+        "primaryLight": "#fde7c2",
+        "secondary": "#d08609",
+        "accent": "#D946EF",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#F59E0B",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Archivo",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "painting/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Transforming Louisville Homes",
+      "heroSubline": "Elevate your living space with expert painting and remodeling services. We bring your vision to life with precision and care, enhancing your home's beauty and value.",
+      "aboutTitle": "Crafting Louisville's Dream Homes",
+      "aboutText": [
+        "502 Custom Painting & Remodeling began with a simple mission: to provide Louisville homeowners with exceptional craftsmanship and unparalleled customer service. Founded by a Louisville native with a passion for transforming spaces, we understand the unique character and charm of local homes.",
+        "Our approach is detail-oriented and customer-focused. We believe in open communication, meticulous preparation, and flawless execution. From selecting the perfect color palette to ensuring a durable, lasting finish, we're committed to exceeding your expectations.",
+        "We're proud to be a part of the Louisville community, supporting local initiatives and building lasting relationships with our clients. We treat every project as if it were our own home, ensuring quality and satisfaction every step of the way."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering exceptional quality and attention to detail."
+        },
+        {
+          "title": "Personalized Service",
+          "description": "Tailored solutions to match your unique style and vision."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Using only high-quality paints and materials for lasting beauty."
+        },
+        {
+          "title": "Reliable & Trustworthy",
+          "description": "Dedicated to transparent communication and on-time project completion."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact us today for a free consultation and let us bring your vision to life. Experience the 502 Custom Painting & Remodeling difference!"
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Enhance your home's ambiance with our expert interior painting services.",
+        "description": "Revitalize your interior spaces with 502 Custom Painting & Remodeling's comprehensive interior painting services. We understand the importance of a fresh coat of paint in transforming the look and feel of your home. Our experienced team meticulously prepares surfaces, addresses any imperfections, and applies premium paints for a smooth, durable, and beautiful finish.\n\nWe begin with a detailed consultation to understand your vision and help you select the perfect colors and finishes to complement your style and décor. Whether you're looking to brighten up a single room or repaint your entire home, we'll work closely with you to achieve your desired results. We use low-VOC paints to ensure a healthy and comfortable environment for you and your family.\n\nFrom protecting your furniture and flooring to providing a thorough cleanup after the project is complete, we handle every detail with care and precision. We take pride in our craftsmanship and are committed to delivering exceptional results that exceed your expectations. Let us transform your interior spaces into havens of comfort and style.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Surface Preparation (cleaning, sanding, priming)",
+          "Step 3: Precise Painting Application",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Improved Air Quality (with low-VOC paints)",
+          "Protection from Wear and Tear"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting typically take?",
+            "answer": "The duration of the project depends on the size and complexity of the job, but we provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you use environmentally friendly paints?",
+            "answer": "Yes, we offer a range of low-VOC and eco-friendly paint options to minimize environmental impact and promote healthier indoor air quality."
+          },
+          {
+            "question": "What kind of surface preparation do you do?",
+            "answer": "We thoroughly clean, sand, and prime all surfaces to ensure proper paint adhesion and a smooth, long-lasting finish. We also address any imperfections, such as cracks or holes, before painting."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home's exterior with our professional painting services.",
+        "description": "As Louisville experiences all four seasons, your home's exterior needs a durable and beautiful finish. 502 Custom Painting & Remodeling provides exterior painting services designed to withstand the elements and enhance curb appeal. We understand the unique challenges posed by Louisville's climate, from hot humid summers to cold winters, and use premium paints and techniques to ensure a long-lasting and weather-resistant finish.\n\nOur team meticulously prepares surfaces by power washing, scraping loose paint, and priming to create a solid foundation for the new paint. We pay close attention to detail, ensuring that every nook and cranny is properly coated. We are experienced in painting various exterior surfaces, including siding, brick, stucco, and wood trim.\n\nWe work with you to select the perfect colors and finishes to complement your home's architectural style and neighborhood aesthetic. Whether you're looking to refresh your home's current color or completely transform its appearance, we'll help you achieve your vision. With our expertise and commitment to quality, you can trust us to protect and beautify your home's exterior for years to come.",
+        "process": [
+          "Step 1: Power Washing and Surface Cleaning",
+          "Step 2: Scraping and Sanding Loose Paint",
+          "Step 3: Priming for Optimal Adhesion",
+          "Step 4: Precise Painting Application with Weather-Resistant Paints"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Protection from Weather Damage",
+          "Increased Home Value",
+          "Extended Lifespan of Exterior Surfaces"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my home's exterior?",
+            "answer": "The frequency of exterior painting depends on factors such as the type of siding, climate conditions, and the quality of the previous paint job. Generally, we recommend repainting every 5-10 years."
+          },
+          {
+            "question": "What type of paint do you use for exterior painting?",
+            "answer": "We use high-quality, weather-resistant paints specifically designed for exterior use. These paints are formulated to withstand the elements and provide long-lasting protection against fading, cracking, and peeling."
+          },
+          {
+            "question": "Do you offer color consultations for exterior painting?",
+            "answer": "Yes, we offer color consultations to help you select the perfect colors for your home's exterior. We can provide recommendations based on your home's architectural style, neighborhood aesthetic, and personal preferences."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-refinishing",
+        "name": "Cabinet Refinishing",
+        "shortDescription": "Update your kitchen or bathroom with our professional cabinet refinishing services.",
+        "description": "Transform your kitchen or bathroom without the expense and hassle of replacing your cabinets. 502 Custom Painting & Remodeling offers professional cabinet refinishing services that can breathe new life into your existing cabinetry.\n\nOur skilled team carefully prepares your cabinets by cleaning, sanding, and priming them to create a smooth and even surface. We then apply high-quality paints or stains in your choice of colors and finishes. We pay close attention to detail, ensuring that every door, drawer, and panel is flawlessly refinished.\n\nCabinet refinishing is a cost-effective and environmentally friendly way to update your home. It allows you to customize your cabinets to match your style and décor while minimizing waste. With our expertise and commitment to quality, you can trust us to transform your cabinets into beautiful and functional focal points of your kitchen or bathroom.",
+        "process": [
+          "Step 1: Thorough Cleaning and Degreasing",
+          "Step 2: Sanding and Priming for Smooth Surface",
+          "Step 3: Application of High-Quality Paint or Stain",
+          "Step 4: Sealing for Durability and Protection"
+        ],
+        "benefits": [
+          "Cost-Effective Renovation",
+          "Customized Look and Feel",
+          "Environmentally Friendly",
+          "Increased Kitchen/Bathroom Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long does cabinet refinishing take?",
+            "answer": "The duration of cabinet refinishing depends on the size and complexity of the project, but it typically takes 3-5 days."
+          },
+          {
+            "question": "Can you match my existing cabinet color?",
+            "answer": "Yes, we can precisely match your existing cabinet color using advanced color-matching technology."
+          },
+          {
+            "question": "What type of paint do you use for cabinet refinishing?",
+            "answer": "We use durable, high-quality paints specifically designed for cabinet refinishing. These paints are formulated to withstand daily wear and tear and provide a long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls and ceilings with our expert drywall repair services.",
+        "description": "From minor dings to major damage, 502 Custom Painting & Remodeling offers expert drywall repair services to restore your walls and ceilings to their original condition. We understand the importance of a smooth and flawless surface for a beautiful and professional finish.\n\nOur skilled team carefully assesses the damage and uses the appropriate techniques and materials to repair cracks, holes, and water damage. We meticulously patch, sand, and prime the repaired areas to ensure a seamless blend with the surrounding surface. We take pride in our craftsmanship and are committed to delivering exceptional results that exceed your expectations.\n\nWhether you're preparing to paint, sell your home, or simply want to restore your walls and ceilings to their original condition, we can help. With our expertise and attention to detail, you can trust us to provide quality drywall repair services that will enhance the beauty and value of your home.",
+        "process": [
+          "Step 1: Damage Assessment and Preparation",
+          "Step 2: Patching and Filling Holes/Cracks",
+          "Step 3: Sanding for a Smooth Surface",
+          "Step 4: Priming for Paint Adhesion"
+        ],
+        "benefits": [
+          "Restored Walls and Ceilings",
+          "Improved Aesthetics",
+          "Increased Home Value",
+          "Preparation for Painting"
+        ],
+        "faq": [
+          {
+            "question": "How do you repair water damaged drywall?",
+            "answer": "We first address the source of the leak and allow the drywall to dry completely. Then, we remove the damaged drywall, replace it with new drywall, and blend it seamlessly with the surrounding surface."
+          },
+          {
+            "question": "Can you repair large holes in drywall?",
+            "answer": "Yes, we can repair large holes in drywall using specialized techniques and materials. We carefully patch the hole, reinforce it with backing, and blend it seamlessly with the surrounding surface."
+          },
+          {
+            "question": "Do you offer texture matching for drywall repair?",
+            "answer": "Yes, we offer texture matching to ensure that the repaired area blends seamlessly with the existing texture. We can match a variety of textures, including orange peel, knockdown, and smooth."
+          }
+        ]
+      },
+      {
+        "slug": "wallpaper-removal",
+        "name": "Wallpaper Removal",
+        "shortDescription": "Remove outdated wallpaper and prepare your walls for a fresh new look.",
+        "description": "Say goodbye to outdated wallpaper and hello to a fresh, modern look with 502 Custom Painting & Remodeling's professional wallpaper removal services. Removing wallpaper can be a time-consuming and challenging task, but our experienced team has the skills and equipment to get the job done quickly and efficiently.\n\nWe carefully prepare the walls by scoring the wallpaper and applying a wallpaper removal solution. We then gently peel away the wallpaper, taking care not to damage the underlying drywall. We remove any residual adhesive and repair any imperfections in the walls before priming and painting.\n\nWith our expertise and attention to detail, you can trust us to remove your wallpaper safely and effectively, leaving you with smooth, clean walls that are ready for a fresh new look. Let us handle the hassle of wallpaper removal so you can enjoy a beautiful and updated home.",
+        "process": [
+          "Step 1: Scoring and Applying Removal Solution",
+          "Step 2: Careful Wallpaper Removal",
+          "Step 3: Adhesive Removal and Wall Repair",
+          "Step 4: Priming for Painting"
+        ],
+        "benefits": [
+          "Smooth, Clean Walls",
+          "Preparation for Painting",
+          "Modernized Interior",
+          "Elimination of Outdated Wallpaper"
+        ],
+        "faq": [
+          {
+            "question": "How long does wallpaper removal take?",
+            "answer": "The duration of wallpaper removal depends on the size of the room and the type of wallpaper, but it typically takes 1-3 days."
+          },
+          {
+            "question": "Will wallpaper removal damage my walls?",
+            "answer": "We take great care to minimize damage to your walls during wallpaper removal. We use specialized techniques and equipment to remove the wallpaper safely and effectively. We also repair any imperfections in the walls before priming and painting."
+          },
+          {
+            "question": "Do you offer wallpaper installation services?",
+            "answer": "No, we specialize in wallpaper removal and preparing walls for painting."
+          }
+        ]
+      },
+      {
+        "slug": "popcorn-ceiling-removal",
+        "name": "Popcorn Ceiling Removal",
+        "shortDescription": "Remove outdated popcorn ceilings for a smoother, more modern look.",
+        "description": "Transform your home's interior with 502 Custom Painting & Remodeling's professional popcorn ceiling removal services. Popcorn ceilings, a common feature in older Louisville homes, can make a room feel dated and dusty. Our experienced team can safely and efficiently remove your popcorn ceiling, leaving you with a smooth, modern surface.\n\nWe carefully prepare the room by covering furniture and flooring to protect them from dust and debris. We then wet the popcorn ceiling to soften it and gently scrape it away using specialized tools. We repair any imperfections in the ceiling and apply a smooth finish before priming and painting.\n\nWith our expertise and attention to detail, you can trust us to remove your popcorn ceiling safely and effectively, transforming your room into a more modern and inviting space. Let us help you create a beautiful and updated home that you'll love for years to come.",
+        "process": [
+          "Step 1: Room Preparation and Protection",
+          "Step 2: Wetting and Scraping Popcorn Texture",
+          "Step 3: Ceiling Repair and Smoothing",
+          "Step 4: Priming and Painting"
+        ],
+        "benefits": [
+          "Modernized Interior",
+          "Increased Home Value",
+          "Improved Air Quality",
+          "Smoother Ceiling Finish"
+        ],
+        "faq": [
+          {
+            "question": "Is popcorn ceiling removal messy?",
+            "answer": "Yes, popcorn ceiling removal can be messy, but we take precautions to minimize dust and debris. We cover furniture and flooring with protective materials and use specialized equipment to contain the mess. We also clean up thoroughly after the project is complete."
+          },
+          {
+            "question": "Does popcorn ceiling contain asbestos?",
+            "answer": "Popcorn ceilings installed before 1980 may contain asbestos. We recommend testing your popcorn ceiling for asbestos before removal. We can provide you with information on how to get your ceiling tested."
+          },
+          {
+            "question": "How long does popcorn ceiling removal take?",
+            "answer": "The duration of popcorn ceiling removal depends on the size of the room, but it typically takes 1-3 days."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining-sealing",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect and beautify your outdoor deck with our staining and sealing services.",
+        "description": "Preserve the beauty and longevity of your Louisville deck with 502 Custom Painting & Remodeling's professional deck staining and sealing services. Louisville's fluctuating weather can take a toll on your deck, causing it to fade, crack, and warp. Our experienced team can help protect your deck from the elements and keep it looking its best for years to come.\n\nWe begin by thoroughly cleaning your deck to remove dirt, mildew, and loose debris. We then apply a high-quality stain or sealant that will penetrate the wood and provide long-lasting protection. We offer a variety of colors and finishes to choose from, so you can customize your deck to match your style and décor.\n\nWith our expertise and attention to detail, you can trust us to stain and seal your deck properly, ensuring that it will withstand the elements and provide you with years of enjoyment. Let us help you create a beautiful and functional outdoor space that you'll love for years to come.",
+        "process": [
+          "Step 1: Deck Cleaning and Preparation",
+          "Step 2: Application of High-Quality Stain or Sealant",
+          "Step 3: Even Coating for Maximum Protection",
+          "Step 4: Final Inspection"
+        ],
+        "benefits": [
+          "Protection from Weather Damage",
+          "Enhanced Deck Appearance",
+          "Extended Deck Lifespan",
+          "Increased Outdoor Enjoyment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "The frequency of deck staining and sealing depends on factors such as the type of wood, climate conditions, and the amount of foot traffic. Generally, we recommend staining or sealing your deck every 1-3 years."
+          },
+          {
+            "question": "What type of stain or sealant do you use?",
+            "answer": "We use high-quality stains and sealants specifically designed for outdoor decks. These products are formulated to withstand the elements and provide long-lasting protection against fading, cracking, and warping."
+          },
+          {
+            "question": "Do I need to clean my deck before you stain or seal it?",
+            "answer": "Yes, we will thoroughly clean your deck before staining or sealing it to remove dirt, mildew, and loose debris. This will ensure that the stain or sealant adheres properly to the wood."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is proud to serve the Louisville metropolitan area. We offer a full suite of painting and remodeling services to homeowners and businesses throughout the city, from the historic neighborhoods of Old Louisville to the modern developments in the East End. Our experienced team is committed to providing high-quality workmanship and exceptional customer service. \n\nWe understand the unique needs of Louisville residents. Whether you're looking to refresh the interior of your Victorian home or update the exterior of your commercial property, we have the expertise to get the job done right. We use only the best paints and materials, and we stand behind our work with a satisfaction guarantee.",
+        "localContext": "Louisville, known for its bourbon distilleries and the Kentucky Derby, boasts a diverse architectural landscape reflecting its rich history and vibrant culture.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling extends its expert painting and remodeling services to Jeffersontown, KY. We are dedicated to providing top-notch craftsmanship and exceptional customer service to residents and business owners in J-Town. Whether you're looking to update your home's interior, refresh its exterior, or undertake a complete remodel, we have the skills and experience to exceed your expectations. \n\nWe understand the specific needs of Jeffersontown properties, from the older homes in the city's center to the newer constructions in the surrounding areas. Our team is committed to using high-quality materials and providing a seamless and stress-free experience for our clients.",
+        "localContext": "Jeffersontown, a thriving city within Jefferson County, offers a blend of residential charm and commercial activity, making it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is pleased to offer its comprehensive painting and remodeling services to the St. Matthews area. We are committed to delivering outstanding results and unparalleled customer satisfaction to homeowners and businesses in this vibrant community. From interior painting to exterior renovations, we have the expertise to transform your space. \n\nWe recognize the unique character of St. Matthews, with its mix of historic homes and modern developments. Our team is dedicated to using high-quality materials and paying close attention to detail to ensure that every project is completed to the highest standards.",
+        "localContext": "St. Matthews, a bustling city known for its shopping centers and restaurants, provides a dynamic environment with a strong sense of community.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Indian Hills"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is proud to serve the Shively community with our professional painting and remodeling services. We are dedicated to providing exceptional quality and customer satisfaction to homeowners and businesses in Shively. Whether you're looking to update your home's interior, refresh its exterior, or undertake a full-scale remodel, we have the expertise to bring your vision to life. \n\nWe understand the specific needs of Shively properties. Our team is committed to using high-quality materials and providing a seamless and stress-free experience for our clients.",
+        "localContext": "Shively, a city with a strong industrial heritage, offers a mix of residential and commercial properties, creating a diverse and evolving community.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is delighted to extend our premier painting and remodeling services to Middletown, KY. We are dedicated to providing top-quality craftsmanship and exceptional customer service to residents and businesses in this thriving community. From interior painting to exterior renovations, we have the expertise to transform your space. \n\nWe understand the specific needs of Middletown properties, from the historic homes to the newer developments. Our team is committed to using high-quality materials and paying close attention to detail to ensure that every project is completed to the highest standards.",
+        "localContext": "Middletown, a growing suburban city, offers a blend of residential neighborhoods, parks, and commercial areas, making it a desirable place to live and raise a family.",
+        "nearbyAreas": [
+          "Louisville",
+          "Anchorage",
+          "Jeffersontown"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is pleased to offer painting and remodeling services to Anchorage, KY. We are committed to delivering excellent results and unparalleled customer satisfaction. From interior painting to exterior renovations, we have the expertise to transform your space. \n\nWe recognize the unique character of Anchorage, with its beautiful homes and landscapes. Our team is dedicated to using high-quality materials and paying close attention to detail to ensure that every project is completed to the highest standards.",
+        "localContext": "Anchorage, an affluent residential community, is known for its large, beautiful homes and tree-lined streets, creating a tranquil and picturesque environment.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Lyndon"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling is proud to provide our painting and remodeling services to Lyndon, KY. We are dedicated to providing exceptional quality to homeowners and businesses in Lyndon. Whether you're looking to update your home's interior, refresh its exterior, or undertake a complete remodel, we have the expertise to bring your vision to life. \n\nWe understand the specific needs of Lyndon properties. Our team is committed to using high-quality materials and providing a seamless and stress-free experience for our clients.",
+        "localContext": "Lyndon, a charming residential community, offers a mix of older homes and newer developments, creating a diverse and welcoming environment.",
+        "nearbyAreas": [
+          "Louisville",
+          "St. Matthews",
+          "Anchorage"
+        ]
+      },
+      {
+        "city": "Indian Hills",
+        "slug": "indian-hills-ky",
+        "state": "KY",
+        "content": "502 Custom Painting & Remodeling proudly serves the Indian Hills area with expert painting and remodeling services. We are dedicated to providing exceptional quality and customer satisfaction to homeowners and businesses. Whether you're looking to refresh your home's interior, update the exterior, or undertake a full-scale renovation, we have the expertise to bring your vision to life.\n\nWe understand the unique character of Indian Hills and the specific needs of homes in this area. Our team is committed to using high-quality materials and providing a seamless, stress-free experience for our clients.",
+        "localContext": "Indian Hills is known for its beautiful, spacious homes and wooded landscapes, offering a tranquil residential environment.",
+        "nearbyAreas": [
+          "Louisville",
+          "St. Matthews",
+          "Rolling Fields"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "502 Custom Painting did an amazing job painting the interior of our Highlands bungalow! They were professional, efficient, and the attention to detail was impressive. Our walls look fantastic! Highly recommend.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "We hired 502 Custom Painting to paint the exterior of our home in St. Matthews. The crew was punctual and worked diligently. There were a couple of minor touch-ups needed, but they addressed them promptly. Overall, a solid job.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Cabinet Refinishing",
+        "text": "Our kitchen cabinets were looking tired and worn. 502 Custom Painting refinished them beautifully! They look brand new, and it saved us a ton of money compared to replacing them. The color is perfect, and the finish is durable. Very happy!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "Had some water damage in my basement after a spring storm. 502 Custom Painting repaired the drywall seamlessly. You can't even tell there was ever any damage. Great work and very professional.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Wallpaper Removal",
+        "text": "Wallpaper removal is a pain, but 502 Custom Painting made it easy! They were careful and efficient, and they prepped the walls perfectly for painting. A bit pricier than some other quotes, but worth it for the quality of work.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Popcorn Ceiling Removal",
+        "text": "502 Custom Painting removed the popcorn ceiling from my living room. It was a messy job, but they handled it professionally and cleaned up thoroughly afterward. The room looks so much better now!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "502 Painting & Remodeling | Louisville, KY",
+        "description": "Expert painting and remodeling services in Louisville. Interior, exterior, cabinets, drywall & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | 502 Custom Painting & Remodeling",
+        "description": "Learn about 502 Custom Painting & Remodeling in Louisville, KY. Our story, values, and commitment to quality craftsmanship."
+      },
+      "services": {
+        "title": "Painting Services | Louisville, KY | 502 Painting",
+        "description": "Comprehensive painting and remodeling services in Louisville. Interior, exterior, cabinet refinishing, and more."
+      },
+      "contact": {
+        "title": "Contact Us | 502 Painting & Remodeling",
+        "description": "Contact 502 Custom Painting & Remodeling for a free quote. Serving Louisville and surrounding areas."
+      },
+      "reviews": {
+        "title": "Reviews | 502 Custom Painting & Remodeling",
+        "description": "Read reviews from satisfied customers of 502 Custom Painting & Remodeling in Louisville, KY."
+      },
+      "service-areas": {
+        "title": "Service Areas | 502 Painting | Louisville, KY",
+        "description": "502 Custom Painting & Remodeling serves Louisville and surrounding areas. Check our full service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "850+",
+      "satisfaction": "98%",
+      "teamSize": "22+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-refinishing": "/images/service-cabinet-refinishing.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "wallpaper-removal": "/images/service-wallpaper-removal.webp",
+      "popcorn-ceiling-removal": "/images/service-popcorn-ceiling-removal.webp",
+      "deck-staining-sealing": "/images/service-deck-staining-sealing.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-refinishing": {
+        "src": "/images/service-cabinet-refinishing.webp",
+        "srcset": "/images/service-cabinet-refinishing-400w.webp 400w, /images/service-cabinet-refinishing-800w.webp 800w, /images/service-cabinet-refinishing-1200w.webp 1200w, /images/service-cabinet-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wallpaper-removal": {
+        "src": "/images/service-wallpaper-removal.webp",
+        "srcset": "/images/service-wallpaper-removal-400w.webp 400w, /images/service-wallpaper-removal-800w.webp 800w, /images/service-wallpaper-removal-1200w.webp 1200w, /images/service-wallpaper-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "popcorn-ceiling-removal": {
+        "src": "/images/service-popcorn-ceiling-removal.webp",
+        "srcset": "/images/service-popcorn-ceiling-removal-400w.webp 400w, /images/service-popcorn-ceiling-removal-800w.webp 800w, /images/service-popcorn-ceiling-removal-1200w.webp 1200w, /images/service-popcorn-ceiling-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining-sealing": {
+        "src": "/images/service-deck-staining-sealing.webp",
+        "srcset": "/images/service-deck-staining-sealing-400w.webp 400w, /images/service-deck-staining-sealing-800w.webp 800w, /images/service-deck-staining-sealing-1200w.webp 1200w, /images/service-deck-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
